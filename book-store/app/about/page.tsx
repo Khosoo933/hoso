@@ -5,6 +5,7 @@ export default function AboutPage() {
       <h1>About BookMart</h1>
       <p>BookMart бол programming, web development, AI болон technology номын жишээ онлайн дэлгүүр юм.</p>
       <h2>Our Goal</h2>
+      <h3>lalar</h3>
       <p>Оюутнуудад Next.js-ийн page, component, routing, static data гэсэн ойлголтыг практик байдлаар сурахад туслах.</p>
     </section>
   );
