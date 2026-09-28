@@ -8,7 +8,7 @@ export default function Home() {
      
     <Header title="HOME"/>
       <section>
-        <h2>Featured Books</h2>
+        <h2>Featured Books for hosoo</h2>
         {/* <div className="book-grid">
           {books.map((book) => (
             <article className="book-card" key={book.id}>
