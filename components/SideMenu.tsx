@@ -1,7 +1,7 @@
 // components/SideMenu.tsx
 import Link from "next/link";
 
-export function SideMenu() {
+export default function SideMenu() {
   return (
     <nav className="side-menu">
       <Link href="/">Home</Link>

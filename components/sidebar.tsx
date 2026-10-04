@@ -1,5 +1,5 @@
 // components/Sidebar.tsx
-export function Sidebar() {
+export default function Sidebar() {
   return (
     <aside className="sidebar">
       <h3>Categories</h3>
